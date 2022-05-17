@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "todo": "Get milk from the cow shop",
+      "isCompleted": "false",
+      "id": 1
+    },
+    {
+      "todo": "Get bread from shop",
+      "isCompleted": "false",
+      "id": 2
+    },
+    {
+      "todo": "Get stuff from factory",
+      "isCompleted": "false",
+      "id": 3
+    }
+  ]
+}
